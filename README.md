@@ -7,4 +7,4 @@ Problem are state in the `assignment4_neuroscience.pdf` file. And the final repo
 ## MIRtoolbox
 you need to have MIRtoolbox installed and added to the path to run the codes. 
 
-  MIRtoolbox offers an integrated set of functions written in Matlab, dedicated to the extraction from audio files of musical features such as tonality, rhythm,      structures, etc
+`MIRtoolbox` offers an integrated set of functions written in Matlab, dedicated to the extraction from audio files of musical features such as tonality, rhythm, structures, etc
